@@ -1,5 +1,7 @@
 github.com/omercnet/go-untagged v0.0.0-20221125134842-12aa0cbe5881 h1:aWSmk8Qj5t9m5WI4pPIcaNlZBq95V7r2qQ2yYaotb5Y=
 github.com/omercnet/go-untagged v0.0.0-20221125134842-12aa0cbe5881/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
+github.com/omercnet/go-untagged v0.0.0-20221125135109-d3d12f205450 h1:vsW+RWfW9pAI9i1ll/mQ7VKR9ijyVwLIGeP7n4oCXyg=
+github.com/omercnet/go-untagged v0.0.0-20221125135109-d3d12f205450/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.4.0 h1:BrVqGRd7+k1DiOgtnFvAkoQEWQvBc25ouMJM6429SFg=
 golang.org/x/text v0.4.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
