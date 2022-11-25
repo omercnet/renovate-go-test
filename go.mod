@@ -5,9 +5,9 @@ go 1.19
 require (
 	github.com/aws/aws-sdk-go v1.44.143
 	github.com/spf13/jwalterweatherman v0.0.0-20180814060501-14d3d4c51834
+	github.com/stretchr/testify v1.7.6-0.20220628121345-cf1284f8dd6f
 	golang.org/x/net v0.2.0
 	gopkg.in/src-d/go-git.v4 v4.0.0-20180807092216-43d17e14b714
-    github.com/stretchr/testify v1.8.2-0.20221102114659-1333b5d3bda8
 )
 
 require (
@@ -27,8 +27,8 @@ require (
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/src-d/gcfg v1.4.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
-	 // indirect
+	github.com/stretchr/objx v0.4.0 // indirect
+	// indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d // indirect
 	golang.org/x/sys v0.2.0 // indirect
