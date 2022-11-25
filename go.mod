@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.44.143
-	github.com/spf13/jwalterweatherman v0.0.0-20180814060501-14d3d4c51834
+	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/stretchr/testify v1.7.6-0.20220628121345-cf1284f8dd6f
 	golang.org/x/net v0.2.0
 	gopkg.in/src-d/go-git.v4 v4.0.0-20180807092216-43d17e14b714
