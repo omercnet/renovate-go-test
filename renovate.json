@@ -2,11 +2,14 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
   "postUpdateOptions": ["gomodTidy", "gomodUpdateImportPaths"],
-  "pinDigests": true,
-  "digest": {
-    "enabled": true
-  },
-  "gomod": {
-    "pinDigests": true
-  }
+  "packageRules": [
+    {
+      "packagePatterns": ["omercnet"],
+      "groupName": "Test untagged",
+      "digest": {
+        "enabled": true
+      },
+      "pinDigests": true
+    }
+  ]
 }
