@@ -8,8 +8,7 @@
       "groupName": "Test untagged",
       "digest": {
         "enabled": true
-      },
-      "pinDigests": true
+      }
     }
   ]
 }
