@@ -9,9 +9,7 @@
       "digest": {
         "enabled": true
       },
-      "gomod": {
-        "pinDigest": true
-      }
+      "pinDigests": true
     }
   ]
 }
