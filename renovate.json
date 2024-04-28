@@ -5,5 +5,8 @@
   "pinDigests": true,
   "digest": {
     "enabled": true
+  },
+  "gomod": {
+    "pinDigests": true
   }
 }
