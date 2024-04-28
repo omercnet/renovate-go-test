@@ -1,8 +1,10 @@
-github.com/omercnet/go-untagged v0.0.2 h1:u6FRf2hYL7Kh2Vb4mTv1vVcJkaTYmvhwyHxlu47RiQU=
-github.com/omercnet/go-untagged v0.0.2/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
+github.com/omercnet/go-untagged v0.0.3-0.20221125140523-6596438694dc h1:jpgx0TSzYVclO/BcjwNnS1IrQiCsW+pUSKaYYT0577U=
+github.com/omercnet/go-untagged v0.0.3-0.20221125140523-6596438694dc/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
+github.com/omercnet/go-untagged v0.0.3-0.20240428090349-4c0a7ece5c9b h1:QYP5xmOVTMU4nB6vI3Hl3VAAuuD9JaJEB1GZ8A5ZmeI=
+github.com/omercnet/go-untagged v0.0.3-0.20240428090349-4c0a7ece5c9b/go.mod h1:G53Zo7bqql4a3NSZLjVbBklruB6E70UfxojXGofFssQ=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
-golang.org/x/text v0.4.0 h1:BrVqGRd7+k1DiOgtnFvAkoQEWQvBc25ouMJM6429SFg=
-golang.org/x/text v0.4.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
+golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
+golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
 rsc.io/quote/v3 v3.1.0 h1:9JKUTTIUgS6kzR9mK1YuGKv6Nl+DijDNIc0ghT58FaY=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
